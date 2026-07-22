@@ -3036,7 +3036,7 @@ input, select, textarea {
 			}
 
 				#titleBar .title {
-					color: #fff;
+					color: #fa8f87;
 					display: block;
 					font-weight: 700;
 					height: 44px;
@@ -3076,8 +3076,8 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #fa8f87;
-						color: #ffffff;
+						background: #2d3250;
+						color: #fa8f87;
 						content: '\f0c9';
 						display: block;
 						font-size: 18px;
