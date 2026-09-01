@@ -122,6 +122,7 @@ input, select, textarea {
 	
     figcaption {
         font-size: 10pt;
+		line-height: 1.2;
     	}
 
 	strong, b {
