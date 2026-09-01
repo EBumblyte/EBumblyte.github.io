@@ -119,6 +119,10 @@ input, select, textarea {
 			border-bottom-color: transparent;
 			color: #fa8f87 !important;
 		}
+	
+    figcaption {
+        font-size: 20px;
+    	}
 
 	strong, b {
 		color: #777;
